@@ -8,6 +8,9 @@ This is a simple Flutter app created as part of the HNGx task. The app displays 
 - Open an in-app webview to load your GitHub repository page.
 
 ## Appetize Link
+  Device: Pixel4L
+  Version 11.0
+  Scale 75%
  ```bash
  https://appetize.io/app/lsjl6tvib4eyny3chxz5qcmvue?device=pixel4xl&osVersion=11.0&scale=75
  ```
