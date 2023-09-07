@@ -7,8 +7,10 @@ This is a simple Flutter app created as part of the HNGx task. The app displays 
 - Display your picture.
 - Open an in-app webview to load your GitHub repository page.
 
-## Screenshots
-
+## Appetize Link
+ ```bash
+ https://appetize.io/app/lsjl6tvib4eyny3chxz5qcmvue?device=pixel4xl&osVersion=11.0&scale=75
+ ```
 
 
 ## Installation
