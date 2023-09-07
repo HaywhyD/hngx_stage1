@@ -1,17 +1,54 @@
-# hngx_stage1
+# My Flutter HNGx App
 
-A new Flutter project.
+This is a simple Flutter app created as part of the HNGx task. The app displays a picture and includes a button that opens an in-app webview to load your GitHub repository page.
 
-## Getting Started
+## Features
 
-This project is a mobile application that prominently features my Slack identity, incorporates my Slack profile picture, and includes an “Open GitHub” button. When pressed, this button utilizes a WebView component to redirect users to my GitHub profile within the application itself.
+- Display your picture.
+- Open an in-app webview to load your GitHub repository page.
 
-## Packages used
-  cupertino_icons
-  google_fonts
-  flutter_screenutil
-  webview_flutter
-
-  
+## Screenshots
 
 
+
+## Installation
+
+To run this project on your local machine, you'll need to have Flutter installed. If you haven't already, you can follow the [Flutter installation guide](https://flutter.dev/docs/get-started/install) for your platform.
+
+Once Flutter is set up, follow these steps:
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/haywhyd/hngx_stage1.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd your-hngx-flutter-app
+Install the project dependencies:
+
+bash
+Copy code
+flutter pub get
+Run the app:
+
+bash
+Copy code
+flutter run
+Assumptions
+This project assumes that you have Flutter and its dependencies installed on your development machine.
+
+Packages Used
+cupertino_icons - Icon pack for Flutter.
+google_fonts - Easily access fonts from Google Fonts.
+flutter_screenutil - Screen adaptation utility for Flutter.
+webview_flutter - Flutter plugin for rendering web pages inside your app.
+Contributing
+Contributions are welcome! If you'd like to improve this project or add new features, please follow the standard GitHub fork and pull request workflow.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Acknowledgments
+Thanks to HNGx for the opportunity to work on this project.
