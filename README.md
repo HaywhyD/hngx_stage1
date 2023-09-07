@@ -44,7 +44,8 @@ cupertino_icons - Icon pack for Flutter.
 google_fonts - Easily access fonts from Google Fonts.
 flutter_screenutil - Screen adaptation utility for Flutter.
 webview_flutter - Flutter plugin for rendering web pages inside your app.
-Contributing
+
+## Contributing
 Contributions are welcome! If you'd like to improve this project or add new features, please follow the standard GitHub fork and pull request workflow.
 
 ## License
