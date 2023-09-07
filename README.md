@@ -50,7 +50,7 @@ webview_flutter - Flutter plugin for rendering web pages inside your app.
 Contributions are welcome! If you'd like to improve this project or add new features, please follow the standard GitHub fork and pull request workflow.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is not licensed under the MIT License.
 
 ## Acknowledgments
 Thanks to HNGx for the opportunity to work on this project.
