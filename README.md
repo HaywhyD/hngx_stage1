@@ -23,23 +23,23 @@ Once Flutter is set up, follow these steps:
    git clone https://github.com/haywhyd/hngx_stage1.git
 Navigate to the project directory:
 
-bash
+'''bash
 Copy code
-cd your-hngx-flutter-app
+cd hngx_stage1
 Install the project dependencies:
 
-bash
+'''bash
 Copy code
 flutter pub get
 Run the app:
 
-bash
+'''bash
 Copy code
 flutter run
 Assumptions
 This project assumes that you have Flutter and its dependencies installed on your development machine.
 
-Packages Used
+## Packages Used
 cupertino_icons - Icon pack for Flutter.
 google_fonts - Easily access fonts from Google Fonts.
 flutter_screenutil - Screen adaptation utility for Flutter.
@@ -47,8 +47,8 @@ webview_flutter - Flutter plugin for rendering web pages inside your app.
 Contributing
 Contributions are welcome! If you'd like to improve this project or add new features, please follow the standard GitHub fork and pull request workflow.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+## Acknowledgments
 Thanks to HNGx for the opportunity to work on this project.
