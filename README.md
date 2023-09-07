@@ -19,8 +19,9 @@ Once Flutter is set up, follow these steps:
 
 1. Clone this repository:
 
-   ```bash
+ ```bash
    git clone https://github.com/haywhyd/hngx_stage1.git
+ ```
 2. Navigate to the project directory:
 
  ```bash
