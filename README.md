@@ -26,12 +26,12 @@ Once Flutter is set up, follow these steps:
  ```bash
 cd hngx_stage1
  ```
-Install the project dependencies:
+3. Install the project dependencies:
 
  ```bash
 flutter pub get
  ```
-3. Run the app:
+4. Run the app:
 
  ```bash
 flutter run
