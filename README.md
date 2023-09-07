@@ -23,18 +23,19 @@ Once Flutter is set up, follow these steps:
    git clone https://github.com/haywhyd/hngx_stage1.git
 2. Navigate to the project directory:
 
-'''bash
+ ```bash
 cd hngx_stage1
+ ```
 Install the project dependencies:
 
-'''bash
+ ```bash
 flutter pub get
-
+ ```
 3. Run the app:
 
-'''bash
+ ```bash
 flutter run
-
+ ```
 ## Assumptions
 This project assumes that you have Flutter and its dependencies installed on your development machine.
 
